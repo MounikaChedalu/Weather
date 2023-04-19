@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: lightblue;
+}
+.container{
+    background-color: white;
+    width:450px;
+    height:550px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+.heading{
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+}
+.location{
+    margin-top: 40px;
+    text-align: center;
+}
+#text{
+    width:280px;
+    height:40px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: larger;
+}
+#btn{
+    height:40px;
+    width:80px;
+    font-size: large;
+    border:none;
+    background-color: lightgreen;
+    color:white;
+    border-radius: 3px;
+}
+img{
+    display: block;
+    height:200px;
+    width:200px;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+.temperature{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+#weather-disc{
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+    font-weight: 500;
+}
+ #locate{
+    text-align: center;
+    font-size:x-large;
+    font-weight: 300;
+    padding: 10px;
+}
